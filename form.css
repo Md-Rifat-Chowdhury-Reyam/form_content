@@ -1,0 +1,25 @@
+.banner img{
+
+    object-fit: contain;
+    height: 200px;
+    
+    
+}
+
+.banner{
+    background: url(../plannet.jpg);
+    background-position: top;
+    height: 200px;
+    background-size:cover ;
+    background-attachment: fixed;
+
+    
+}
+
+/* font-family: "Noto Sans JP", sans-serif; */
+
+
+.content{
+    font-size: small;
+    font-family: "Noto Sans JP", sans-serif;
+}
